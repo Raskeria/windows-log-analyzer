@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Yerel güvenlik günlükleri ve üretilen raporlar
+/data/
+/reports/
+
+# Geliştirme sırasında alınan eski sürüm
+/analyzer_v1.py
