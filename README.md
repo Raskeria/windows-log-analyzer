@@ -126,3 +126,16 @@ Gerçek log dosyaları ve bu dosyalardan oluşturulan raporlar yerel kullanım i
 ## İlgili Proje
 
 [Active Directory Güvenlik Laboratuvarı](https://github.com/Raskeria/active-directory-security-lab)
+## Ekran Görüntüleri
+
+### Laboratuvar Log Analizi
+
+Gerçek laboratuvar kayıtlarında 888 olay incelendi. Hesap bazında başarısız girişler sayıldı ve iki hesap için zaman aralığı uyarısı üretildi.
+
+![Laboratuvar log analizi](01-laboratuvar-log-analizi.png)
+
+### Sentetik Örnek ve Birim Testleri
+
+GitHub’dan indirilen sürüm, sentetik örnekte demo.user için beklenen uyarıyı üretti. Zaman penceresi fonksiyonuna ait 7 testin tamamı geçti.
+
+![Örnek veri ve testler](02-ornek-veri-ve-testler.png)
